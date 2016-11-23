@@ -1,0 +1,14 @@
+{
+    "name": "sanjeev_bw/hello-world",
+    "authors": [
+        {
+            "name": "sanjeev_bw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
